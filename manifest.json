@@ -5,6 +5,11 @@
             "src": "http://i.imgur.com/EwSEtoi.png",
             "sizes": "144x144",
             "type": "image/png"
+        },
+        {
+            "src": "http://i.imgur.com/oRYg0F6.png",
+            "sizes": "192x192",
+            "type": "image/png"
         }
     ],
     "theme_color": "#ffffff",
